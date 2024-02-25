@@ -18,7 +18,7 @@ spec:
         app: angular
     spec:
       containers:
-      - image: tmoshe/msh:spring2
+      - image: tmoshe/msh:conFusion
         name: msh
         resources: {}
 status: {}
