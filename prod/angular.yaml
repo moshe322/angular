@@ -18,7 +18,7 @@ spec:
         app: angular
     spec:
       containers:
-      - image: tmoshe/msh:conFusion
+      - image: tmoshe/msh:ecommerce
         name: msh
         resources: {}
 status: {}
