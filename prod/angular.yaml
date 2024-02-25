@@ -18,7 +18,7 @@ spec:
         app: angular
     spec:
       containers:
-      - image: tmoshe/msh:Angular-jsonserver
+      - image: tmoshe/msh:spring2
         name: msh
         resources: {}
 status: {}
